@@ -1,3 +1,13 @@
+ 🚨 **重要：新しいIFページには必ずGA4タグを入れる**
+
+ 測定ID：`G-Y37Z0FFKRE`
+
+ 新規ページは必ず  
+ `experiments/_template/index.html`  
+ を元に作成する。
+
+ **GA4未設置のまま公開しない。**
+
 # Internet Fieldwork Lab
 
 Small web experiments exploring unexpected needs, cultures and curiosities around the world.
