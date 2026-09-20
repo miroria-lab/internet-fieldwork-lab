@@ -2,9 +2,7 @@
 
  測定ID：`G-Y37Z0FFKRE`
 
- 新規ページは必ず  
- `experiments/_template/index.html`  
- を元に作成する。
+ 新規ページは必ず`experiments/_template/index.html`を元に作成する。
 
  **GA4未設置のまま公開しない。**
 
